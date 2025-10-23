@@ -3,7 +3,8 @@ This repository contains the text tables from the paper:
 
 "A Comprehensive Statistical Study of Gamma-Ray Bursts and Supernovae Association"
 
-Dong et al. 2025, arXiv:2506.22914
+Dong et al., 2025, ApJ, 993, 20
+https://iopscience.iop.org/article/10.3847/1538-4357/ae04e7
 
 📚 Summary
 
@@ -38,7 +39,7 @@ If you use these data in your work, please cite:
 
 Dong et al. (2025)
 
-A Comprehensive Statistical Study of Gamma-Ray Bursts and Supernovae Association, arXiv:2506.22914
+A Statistical Study of Gamma-Ray Bursts and Supernovae Association, DOI: 10.3847/1538-4357/ae04e7
 
 📬 Contact
 
